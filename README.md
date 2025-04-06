@@ -38,6 +38,6 @@ Fique à vontade para entrar em contato:
 
 *Figura 1: Distribuição dos campi por estado.*
 
-![Cursos](cursos.png)
+![Cursos](candidato_por_estado.png)
 
 *Figura 2: Distribuição dos cursos.*
