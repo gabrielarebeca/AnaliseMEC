@@ -31,3 +31,13 @@ Fique à vontade para entrar em contato:
 - LinkedIn: [Gabriela R. M. Soares](https://www.linkedin.com/in/gabrielarmsoares/)
 
 ---
+
+## 📊 Visualizações
+
+![Campus por Estado](campus_por_estado.png)
+
+*Figura 1: Distribuição dos campi por estado.*
+
+![Cursos](cursos.png)
+
+*Figura 2: Distribuição dos cursos.*
