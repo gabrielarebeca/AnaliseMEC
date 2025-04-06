@@ -23,3 +23,11 @@ Este projeto foi criado com o intuito de:
 - **Matplotlib** e/ou **Seaborn** — para visualização de dados (caso aplicável)
 
 ---
+
+## 🤝 Contato
+
+Fique à vontade para entrar em contato:
+
+- LinkedIn: [Gabriela R. M. Soares](https://www.linkedin.com/in/gabrielarmsoares/)
+
+---
