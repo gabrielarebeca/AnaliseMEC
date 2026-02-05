@@ -20,15 +20,7 @@ Este projeto foi criado com o intuito de:
 - **Jupyter Notebook**
 - **Pandas** — para manipulação e análise de dados
 - **OpenPyXL** ou **xlrd** — para leitura de arquivos Excel
-- **Matplotlib** e/ou **Seaborn** — para visualização de dados (caso aplicável)
-
----
-
-## 🤝 Contato
-
-Fique à vontade para entrar em contato:
-
-- LinkedIn: [Gabriela R. M. Soares](https://www.linkedin.com/in/gabrielarmsoares/)
+- **Matplotlib** e **Seaborn** — para visualização de dados
 
 ---
 
@@ -41,3 +33,4 @@ Fique à vontade para entrar em contato:
 ![Cursos](candidato_por_estado.png)
 
 *Figura 2: Distribuição dos cursos.*
+
